@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    background-color: #0b499d;
+    color: white;
+    margin: 0px;
+    padding: 20px;
+}
+
+.container-fluid{
+    --bs-gutter-x: 0rem;
+}
+
+.container{
+    width: 1920px;
+    height: 100%;
+}
+
+iframe{
+    height: 900px;
+    width: 1520px;
+}
+
+#footer{
+    display: none;
+}
