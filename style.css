@@ -11,6 +11,11 @@
     padding: 20px;
 }
 
+.text-center{
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container-fluid{
     --bs-gutter-x: 0rem;
 }
