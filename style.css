@@ -15,14 +15,11 @@
     --bs-gutter-x: 0rem;
 }
 
-.container{
-    width: 1920px;
-    height: 100%;
-}
+
 
 iframe{
     height: 900px;
-    width: 1520px;
+    width: 100%;
 }
 
 #footer{
