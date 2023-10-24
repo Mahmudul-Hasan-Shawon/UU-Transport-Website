@@ -33,4 +33,8 @@ iframe{
 
 h6{
     font-size: smaller;
+    text-align: center;
 }
+ .text{
+    font-size: small;
+ }
