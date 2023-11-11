@@ -5,7 +5,9 @@
 }
 
 .logo{
-    background-color: #0b499d;
+  
+  
+    background-image: linear-gradient(19deg, #21D4FD 0%, #6421ff 100%);
     color: white;
     margin: 0px;
     padding: 20px;
