@@ -6,7 +6,7 @@
 
 .logo{
   
-  
+   
     background-image: linear-gradient(19deg, #21D4FD 0%, #6421ff 100%);
     color: white;
     margin: 0px;
@@ -37,4 +37,8 @@ iframe{
 h6{
     font-size: 12px;
     text-align: center;
+}
+
+#doc-title{
+    display: none;
 }
